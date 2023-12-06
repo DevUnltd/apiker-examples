@@ -2,6 +2,8 @@
 
 # 👷 Apiker Examples
 
+This is the source to the examples found in the [Apiker Readme](https://github.com/hodgef/apiker/tree/master#readme)
+
 ## 📦 Install
 To create an Apiker project, run:
 
